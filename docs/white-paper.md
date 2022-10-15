@@ -1,4 +1,4 @@
-#GreekFintech: A Decentralized Option Trade Platform
+# GreekFintech: A Decentralized Option Trade Platform
 
 GreekFintech v1 is a decentralized automated option market maker.
 
